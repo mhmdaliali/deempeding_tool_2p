@@ -1,0 +1,11 @@
+# S2P De-embedding Tool - Python Dependencies
+
+# Core dependencies
+scikit-rf>=0.29.0
+numpy>=1.20.0
+
+# Optional: For visualization and analysis of examples
+matplotlib>=3.5.0
+
+# Optional: For running tests
+pytest>=7.0.0
